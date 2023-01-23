@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+    background-image: url(/image/bg3.jpg);
+    background-size: 1600px 900px;
+    background-repeat: no-repeat;
+    
+}
+.container-md{
+    color: rgb(2, 57, 2);
+    margin-top: -1.5cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 80px;
+    
+    
+}
+.container-md a{
+   font-size: .43cm;
+   color: rgb(64, 119, 35);
+   
+   text-align: center;
+}
+
+.container-md a:hover{
+    color: white;
+}
+.container-md logo{
+    padding: 80px;
+}
+
+.mb-3 input{
+    border-radius: 1cm;
+    padding: 1px;
+}
